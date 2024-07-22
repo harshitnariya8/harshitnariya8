@@ -1,19 +1,28 @@
-## Hi there, I'm Harshit! 👋
+<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h3 align="center">I'm passionate about creating innovative AI solutions and leveraging cutting-edge technologies to solve real-world problems.</h3>
 
-Welcome to my GitHub profile! I'm passionate about creating innovative AI solutions and leveraging cutting-edge technologies to solve real-world problems. Here's a bit about me and my skillset:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitnariya8&label=Profile%20views&color=0e75b6&style=flat" alt="harshitnariya8" /> </p>
 
-### 🚀 Skills and Expertise
-- **Python**: My go-to programming language for building robust and efficient applications.
-- **Generative AI**: Harnessing the power of AI to generate creative content and solutions.
-- **Retrieval-Augmented Generation (RAG)**: Building intelligent systems that combine retrieval-based methods with generative models for enhanced performance.
-- **AI Agents**: Developing autonomous agents capable of performing complex tasks and making decisions.
+<p align="left"> <a href="https://twitter.com/harrypatel7422" target="blank"><img src="https://img.shields.io/twitter/follow/harrypatel7422?logo=twitter&style=for-the-badge" alt="harrypatel7422" /></a> </p>
 
-### 🌟 Projects and Contributions
-- **Disaster Simulation App**: An innovative application designed to simulate disaster scenarios for training emergency responders. Utilizing RAG to provide realistic and dynamic training environments.
-- **E-commerce Customer Support System**: A RAG-based support system integrated with Slack to enhance customer service for e-commerce platforms.
+- 📝 I regularly write articles on [https://medium.com/@harshit_56733](https://medium.com/@harshit_56733)
 
-### 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/harshit)
-- [Twitter](https://twitter.com/harshit)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding! 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/harshitlyzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshitlyzr" height="30" width="40" /></a>
+<a href="https://twitter.com/harrypatel7422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrypatel7422" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-nariya-726a59201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-nariya-726a59201" height="30" width="40" /></a>
+<a href="https://instagram.com/harshit.nariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit.nariya" height="30" width="40" /></a>
+<a href="https://medium.com/@harshit_56733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshit_56733" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitnariya8&show_icons=true&locale=en&layout=compact" alt="harshitnariya8" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitnariya8&show_icons=true&locale=en" alt="harshitnariya8" /></p>
